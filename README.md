@@ -19,18 +19,14 @@ Busco mi primera oportunidad profesional como desarrollador junior o trainee, do
 ---
 
 ## 🛠️ Tecnologías utilizadas
-**Front-End**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&perline=6" />
 </p>
 
-**En aprendizaje**
-
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge"/>
 </p>
----
 
 ## 📊  Estadísticas de GitHub
 
