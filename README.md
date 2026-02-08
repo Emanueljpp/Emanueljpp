@@ -33,12 +33,6 @@ Busco mi primera oportunidad profesional como desarrollador , donde pueda aporta
   <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge"/>
 </p>
 
-## 📊 Mis estadísticas de GitHub
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&perline=6" />
-</p>
-
 ---
 
 ## 📌 Proyectos destacados
