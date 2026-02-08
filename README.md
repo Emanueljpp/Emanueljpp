@@ -36,7 +36,7 @@ Busco mi primera oportunidad profesional como desarrollador , donde pueda aporta
 ## 📊  Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emanueljpp&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emanueljpp&show_icons=true&hide_border=true" />
 </p>
 
 ---
