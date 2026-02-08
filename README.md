@@ -7,11 +7,6 @@ Busco mi primera oportunidad profesional como desarrollador junior o trainee, do
 
 ---
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&perline=6" />
-</p>
-
 ## 🧠 Qué hago
 - Desarrollo de interfaces web modernas y responsivas
 - Maquetación profesional con **HTML y CSS**
@@ -26,15 +21,15 @@ Busco mi primera oportunidad profesional como desarrollador junior o trainee, do
 ## 🛠️ Tecnologías utilizadas
 **Front-End**
 
-![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&perline=6" />
+</p>
 
 **En aprendizaje**
-  
-![React](https://img.shields.io/badge/React-61DAFB)
-![Git](https://img.shields.io/badge/Git-black)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge"/>
+</p>
 ---
 
 ## 📊  Estadísticas de GitHub
