@@ -6,7 +6,7 @@
 
 ### Front-End Developer | Ingeniero Informático
 
-soy desarrollador Front-End con bases sólidas en HTML, CSS y JavaScript, actualmente profundizando en React. Me encuentro en formación constante con el objetivo de evolucionar hacia Full Stack Developer, creando proyectos reales y aplicando buenas prácticas de desarrollo.
+Ingeniero informatica y desarrollador Front-End con bases sólidas en HTML, CSS y JavaScript, actualmente profundizando en React. Me encuentro en formación constante con el objetivo de evolucionar hacia Full Stack Developer, creando proyectos reales y aplicando buenas prácticas de desarrollo.
 Busco mi primera oportunidad profesional como desarrollador , donde pueda aportar valor, aprender y crecer dentro de un equipo. 🚀  
 
 ---
@@ -35,8 +35,9 @@ Busco mi primera oportunidad profesional como desarrollador , donde pueda aporta
 
 ## 📊  Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emanueljpp&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanueljpp&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emanueljpp&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
