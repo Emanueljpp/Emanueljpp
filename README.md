@@ -36,13 +36,7 @@ Busco mi primera oportunidad profesional como desarrollador , donde pueda aporta
 ## 📊 Mis estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emanueljpp&show_icons=true&count_private=true&theme=radical&hide_border=false" />
-</p>
-
-## 🖋 Lenguajes más usados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanueljpp&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&perline=6" />
 </p>
 
 ---
