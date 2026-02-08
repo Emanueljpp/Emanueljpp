@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Emanuel 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End+Junior;Estudiante+de+Ingeniería+Informática;Aprendiendo+React+y+Full+Stack;Buscando+mi+primera+oportunidad+profesional" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End+Junior;Ingeniero+en+Informática;Aprendiendo+React+y+Full+Stack;Buscando+mi+primera+oportunidad+profesional" />
 </p>
 
 ### Front-End Developer | Ingeniero Informático
