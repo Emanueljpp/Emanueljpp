@@ -1,16 +1,24 @@
 # Hola, soy Emanuel 👋  
 
-### Front-End Developer | Ingeniería Informática  
+### Front-End Developer | Ingeniero Informático
 
-Soy desarrollador Front-End en formación, enfocado en crear interfaces web claras, responsivas y funcionales.  
-Actualmente sigo estudiando y fortaleciendo mis bases en JavaScript y frameworks modernos, con el objetivo de evolucionar progresivamente hacia **Full Stack Developer** 🚀  
+oy desarrollador Front-End con bases sólidas en HTML, CSS y JavaScript, actualmente profundizando en React. Me encuentro en formación constante con el objetivo de evolucionar hacia Full Stack Developer, creando proyectos reales y aplicando buenas prácticas de desarrollo.
+Busco mi primera oportunidad profesional como desarrollador junior o trainee, donde pueda aportar valor, aprender y crecer dentro de un equipo. 🚀  
 
 ---
 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&perline=6" />
+</p>
+
 ## 🧠 Qué hago
-- Desarrollo de interfaces web con **HTML, CSS y JavaScript**
-- Maquetación responsive y buenas prácticas de UI
-- Consumo básico de API
+- Desarrollo de interfaces web modernas y responsivas
+- Maquetación profesional con **HTML y CSS**
+- Lógica y manipulación del **DOM** con **JavaScript**
+- Desarrollo de aplicaciones con React
+- Consumo básico de APIs REST
+- Buenas prácticas de código y estructura
 - Aprendizaje constante en Front-End moderno
 
 ---
