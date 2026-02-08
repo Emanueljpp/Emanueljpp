@@ -33,10 +33,16 @@ Busco mi primera oportunidad profesional como desarrollador , donde pueda aporta
   <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge"/>
 </p>
 
-## 📊  Estadísticas de GitHub
+## 📊 Mis estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Emanueljpp&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emanueljpp&show_icons=true&count_private=true&theme=radical&hide_border=false" />
+</p>
+
+## 🖋 Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanueljpp&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
