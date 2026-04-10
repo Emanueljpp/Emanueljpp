@@ -24,8 +24,12 @@ Busco mi primera oportunidad profesional como desarrollador , donde pueda aporta
 
 ## 🛠️ Tecnologías utilizadas
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&perline=6"/>
+</p> -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode&perline=10"/>
 </p>
 
 
