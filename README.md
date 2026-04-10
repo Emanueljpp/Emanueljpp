@@ -43,11 +43,17 @@ Busco mi primera oportunidad profesional como desarrollador , donde pueda aporta
 
 ---
 
-📊 Estadísticas
+## 📊 Estadísticas
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Emanueljpp&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emanueljpp&theme=tokyo-night"/>
+</p>
+
+---
 
 ## 🌱 ¿Qué sigue?
 
