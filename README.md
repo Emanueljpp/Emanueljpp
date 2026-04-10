@@ -43,6 +43,18 @@ Busco mi primera oportunidad profesional como desarrollador , donde pueda aporta
 
 ---
 
+📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emanueljpp&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanueljpp&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
 ## 🌱 ¿Qué sigue?
 
 - Profundizar en **React**
